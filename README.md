@@ -5,7 +5,7 @@ Pytorch code for hierarchical time series classification with multi-stage convol
 
 
 ## ZueriCrop Dataset
-will be available soon. 
+Download the dataset via https://polybox.ethz.ch/index.php/s/uXfdr2AcXE3QNB6
 
 ## Getting Started
 
