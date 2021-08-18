@@ -11,5 +11,5 @@ Download the dataset via https://polybox.ethz.ch/index.php/s/uXfdr2AcXE3QNB6
 
 Train the model with 
 ```bash
-python3 train.py
+python3 train.py --data /path/to/data --fold 1
 ```
