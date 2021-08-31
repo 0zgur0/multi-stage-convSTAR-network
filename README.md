@@ -1,5 +1,6 @@
 # ms-convSTAR
-Pytorch code for hierarchical time series classification with multi-stage convolutional RNN
+Pytorch code for hierarchical time series classification with multi-stage convolutional RNN based on our paper 
+https://arxiv.org/pdf/2102.08820.pdf
 
 <img src="https://github.com/0zgur0/ms-convSTAR/blob/master/imgs/model_drawing.png">
 
