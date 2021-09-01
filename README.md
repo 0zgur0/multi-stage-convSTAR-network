@@ -1,5 +1,5 @@
 # ms-convSTAR
-Pytorch implementation for hierarchical time series classification with multi-stage convolutional RNN based on our Remote Sensing of Environment (2021) paper: Turkoglu, Mehmet Ozgur and D'Aronco, Stefano and Perich, Gregor and Liebisch, Frank and Streit, Constantin and Schindler, Konrad and Wegner, Jan Dirk: Crop mapping from image time series: deep learning with multi-scale label hierarchies. Remote Sensing of Environment, 2021
+Pytorch implementation for hierarchical time series classification with multi-stage convolutional RNN based on our RSE paper: Turkoglu, Mehmet Ozgur and D'Aronco, Stefano and Perich, Gregor and Liebisch, Frank and Streit, Constantin and Schindler, Konrad and Wegner, Jan Dirk: Crop mapping from image time series: deep learning with multi-scale label hierarchies. Remote Sensing of Environment, 2021
 
 
 # [[Paper]](https://arxiv.org/pdf/2102.08820.pdf)  - [[Poster]](https://drive.google.com/file/d/1UkzijujTMTFv-fwTs4cFjFIRQlJQoUrq/view?usp=sharing)
