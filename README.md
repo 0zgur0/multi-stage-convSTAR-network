@@ -27,7 +27,7 @@ python3 test.py --data /path/to/data --fold 1 --snapshot /path/to/trained_model
 
 ## Citation
 ```bash
-@article{turkoglu2021gating,
+@article{turkoglu2021msconvstar,
   title={Crop mapping from image time series: deep learning with multi-scale label hierarchies},
   author={Turkoglu, Mehmet Ozgur and D'Aronco, Stefano and Perich, Gregor and Liebisch, Frank and Streit, Constantin and Schindler, Konrad and Wegner, Jan Dirk},
   journal={Remote Sensing of Environment},
