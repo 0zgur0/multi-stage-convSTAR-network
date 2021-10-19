@@ -27,12 +27,12 @@ python3 test.py --data /path/to/data --fold 1 --snapshot /path/to/trained_model
 
 ## Citation
 ```bash
-@article{turkoglu2021msconvstar,
-  title={Crop mapping from image time series: deep learning with multi-scale label hierarchies},
-  author={Turkoglu, Mehmet Ozgur and D'Aronco, Stefano and Perich, Gregor and Liebisch, Frank and Streit, Constantin and Schindler, Konrad and Wegner, Jan Dirk},
-  journal={Remote Sensing of Environment},
-  volume={264},
+@inproceedings{turkoglu2021visual,
+  title={Visual Camera Re-Localization Using Graph Neural Networks and Relative Pose Supervision},
+  author={Turkoglu, Mehmet Ozgur and Brachmann, Eric and Schindler, Konrad and Brostow, Gabriel and Monszpart, Aron},
+  booktitle={2019 International Conference on 3D Vision (3DV)},
   year={2021},
-  publisher={Elsevier}
+  organization={IEEE}
+}
 }
 ```
