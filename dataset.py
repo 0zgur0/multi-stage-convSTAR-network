@@ -172,6 +172,7 @@ class Dataset(torch.utils.data.Dataset):
 
         #keep values between 0-1
         X = X * 1e-4
+        #Previous line should be modified as X = X / 4095 but not tested yet!
 
         # Cloud masking
         if self.apply_cloud_masking:
